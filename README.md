@@ -3,6 +3,13 @@
 - A clean and minimal authentication starter built with Next.js App Router and NextAuth.
 - Designed to be easy to understand, extend and integrate into any project.
 
+  ## ☕ Support the project
+
+If this project saved you time or helped you learn something, you can support my work here:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/franciscovera72624)
+
+
 This project focuses on separation of concerns, clean architecture, and a developer-friendly structure.
 ---
 ## ✨ Features
@@ -193,3 +200,4 @@ http://localhost:3000/auth/login
 
 **MIT License
 Use it freely in personal or commercial projects.**
+
